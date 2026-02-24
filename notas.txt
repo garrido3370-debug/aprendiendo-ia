@@ -1,0 +1,2 @@
+Día 1 trabajando con Git local.
+Entendiendo clone, commit y push.
