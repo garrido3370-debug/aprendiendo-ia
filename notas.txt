@@ -1,2 +1,3 @@
 Día 1 trabajando con Git local.
 Entendiendo clone, commit y push.
+Día 2: Entendiendo cómo Git rastrea cambios.
