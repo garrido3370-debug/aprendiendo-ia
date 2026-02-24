@@ -1,2 +1,2 @@
-# aprendiendo-ia
-Proyectos para empezar a  trastear con ia
+Repositorio donde creo mis cositas de ia a mi gusto para aprender, y para que me quede constancia.
+objetivos: solo aprender, pero entendiendo cosas y disfrutando
